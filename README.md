@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0011-container-with-most-water) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Two Pointers
 |  |
 | ------- |
@@ -30,4 +31,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 <!---LeetCode Topics End-->
