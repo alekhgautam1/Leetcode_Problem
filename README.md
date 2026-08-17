@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0015-3sum) |
 | [1563-stone-game-v](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/2029-stone-game-ix) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0015-3sum) |
 ## Greedy
 |  |
 | ------- |
@@ -77,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1563-stone-game-v](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1563-stone-game-v) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
