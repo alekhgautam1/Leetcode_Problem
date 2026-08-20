@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0016-3sum-closest) |
+| [0143-reorder-list](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0143-reorder-list) |
 ## Greedy
 |  |
 | ------- |
@@ -102,8 +103,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0050-powx-n) |
+| [0143-reorder-list](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0143-reorder-list) |
 ## Simulation
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1929-concatenation-of-array) |
+## Linked List
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0143-reorder-list) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
