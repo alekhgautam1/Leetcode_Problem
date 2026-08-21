@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0035-search-insert-position) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1386-cinema-seat-allocation](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1386-cinema-seat-allocation) |
 | [1470-shuffle-the-array](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1470-shuffle-the-array) |
@@ -130,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0020-valid-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
