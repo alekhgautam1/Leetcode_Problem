@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0070-climbing-stairs) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -62,11 +63,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0242-valid-anagram) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0067-add-binary) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1386-cinema-seat-allocation](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0067-add-binary) |
 | [1929-concatenation-of-array](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1929-concatenation-of-array) |
 ## Linked List
 |  |
