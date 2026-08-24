@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0088-merge-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1386-cinema-seat-allocation](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1386-cinema-seat-allocation) |
 | [1470-shuffle-the-array](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1470-shuffle-the-array) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0088-merge-sorted-array) |
 | [0143-reorder-list](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0143-reorder-list) |
 ## Greedy
 |  |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0016-3sum-closest) |
+| [0088-merge-sorted-array](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0242-valid-anagram) |
 ## Recursion
 |  |
