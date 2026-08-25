@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0143-reorder-list) |
 ## Simulation
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0143-reorder-list) |
 ## Stack
 |  |
