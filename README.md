@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0283-move-zeroes) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1386-cinema-seat-allocation](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1386-cinema-seat-allocation) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0242-valid-anagram) |
 | [1386-cinema-seat-allocation](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1386-cinema-seat-allocation) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0242-valid-anagram) |
 ## Recursion
 |  |
