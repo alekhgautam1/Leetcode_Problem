@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1563-stone-game-v) |
 | [1929-concatenation-of-array](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1929-concatenation-of-array) |
 | [2029-stone-game-ix](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/2029-stone-game-ix) |
+| [3483-unique-3-digit-even-numbers](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/3483-unique-3-digit-even-numbers) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/3875-construct-uniform-parity-array-i) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0242-valid-anagram) |
 | [1386-cinema-seat-allocation](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1386-cinema-seat-allocation) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3483-unique-3-digit-even-numbers](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
 |  |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0143-reorder-list) |
+| [3483-unique-3-digit-even-numbers](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/3483-unique-3-digit-even-numbers) |
 ## Simulation
 |  |
 | ------- |
@@ -215,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0169-majority-element) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
