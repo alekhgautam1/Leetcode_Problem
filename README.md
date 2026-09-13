@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0283-move-zeroes) |
+| [0835-image-overlap](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0835-image-overlap) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1386-cinema-seat-allocation](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1386-cinema-seat-allocation) |
 | [1470-shuffle-the-array](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1470-shuffle-the-array) |
@@ -230,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/3483-unique-3-digit-even-numbers) |
+## Matrix
+|  |
+| ------- |
+| [0835-image-overlap](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0835-image-overlap) |
 <!---LeetCode Topics End-->
