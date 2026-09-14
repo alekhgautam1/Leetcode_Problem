@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0070-climbing-stairs) |
+| [0836-rectangle-overlap](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0836-rectangle-overlap) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1563-stone-game-v](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1563-stone-game-v) |
@@ -241,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0303-range-sum-query-immutable) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
