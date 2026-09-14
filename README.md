@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1563-stone-game-v) |
 | [1929-concatenation-of-array](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1929-concatenation-of-array) |
 | [2029-stone-game-ix](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/2029-stone-game-ix) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/3483-unique-3-digit-even-numbers) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0242-valid-anagram) |
 | [1386-cinema-seat-allocation](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1386-cinema-seat-allocation) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3483-unique-3-digit-even-numbers](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/3718-smallest-missing-multiple-of-k) |
