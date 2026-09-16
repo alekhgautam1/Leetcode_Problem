@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0303-range-sum-query-immutable) |
+| [0500-keyboard-row](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0500-keyboard-row) |
 | [0835-image-overlap](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0835-image-overlap) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1386-cinema-seat-allocation](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1386-cinema-seat-allocation) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0242-valid-anagram) |
+| [0500-keyboard-row](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0500-keyboard-row) |
 | [1386-cinema-seat-allocation](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1386-cinema-seat-allocation) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0242-valid-anagram) |
+| [0500-keyboard-row](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0500-keyboard-row) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/3090-maximum-length-substring-with-two-occurrences) |
