@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0041-first-missing-positive) |
+| [0046-permutations](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0169-majority-element) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0046-permutations) |
 ## Bracket Sequences
 |  |
 | ------- |
