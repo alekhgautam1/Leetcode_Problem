@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0349-intersection-of-two-arrays) |
 | [0500-keyboard-row](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0500-keyboard-row) |
 | [0697-degree-of-an-array](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0697-degree-of-an-array) |
+| [1096-brace-expansion-ii](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0242-valid-anagram) |
 | [0500-keyboard-row](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0500-keyboard-row) |
+| [1096-brace-expansion-ii](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1096-brace-expansion-ii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0349-intersection-of-two-arrays) |
+| [1096-brace-expansion-ii](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1096-brace-expansion-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Recursion
 |  |
@@ -210,11 +213,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0143-reorder-list) |
+| [1096-brace-expansion-ii](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1096-brace-expansion-ii) |
 ## Backtracking
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0046-permutations) |
+| [1096-brace-expansion-ii](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -262,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0111-minimum-depth-of-binary-tree) |
+| [1096-brace-expansion-ii](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1096-brace-expansion-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
