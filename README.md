@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0349-intersection-of-two-arrays) |
+| [0424-longest-repeating-character-replacement](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0424-longest-repeating-character-replacement) |
 | [0500-keyboard-row](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0500-keyboard-row) |
 | [0697-degree-of-an-array](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0697-degree-of-an-array) |
 | [1096-brace-expansion-ii](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1096-brace-expansion-ii) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0290-word-pattern) |
+| [0424-longest-repeating-character-replacement](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0424-longest-repeating-character-replacement) |
 | [0500-keyboard-row](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0500-keyboard-row) |
 | [1096-brace-expansion-ii](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0424-longest-repeating-character-replacement) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
