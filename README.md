@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0290-word-pattern) |
 | [0424-longest-repeating-character-replacement](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0424-longest-repeating-character-replacement) |
 | [0500-keyboard-row](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0500-keyboard-row) |
+| [0856-score-of-parentheses](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0856-score-of-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0143-reorder-list) |
+| [0856-score-of-parentheses](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0856-score-of-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0032-longest-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
