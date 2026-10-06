@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0011-container-with-most-water) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/2029-stone-game-ix) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0424-longest-repeating-character-replacement) |
 | [0500-keyboard-row](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0500-keyboard-row) |
 | [0856-score-of-parentheses](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1096-brace-expansion-ii](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0143-reorder-list) |
 | [0856-score-of-parentheses](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1096-brace-expansion-ii](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
