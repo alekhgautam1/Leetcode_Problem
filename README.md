@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0047-permutations-ii) |
 | [0066-plus-one](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0169-majority-element) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0016-3sum-closest) |
+| [0047-permutations-ii](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0217-contains-duplicate) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0040-combination-sum-ii](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0047-permutations-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
