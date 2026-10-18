@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0045-jump-game-ii) |
+| [0678-valid-parenthesis-string](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1386-cinema-seat-allocation) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0301-remove-invalid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0424-longest-repeating-character-replacement) |
 | [0500-keyboard-row](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0500-keyboard-row) |
+| [0678-valid-parenthesis-string](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1096-brace-expansion-ii](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1096-brace-expansion-ii) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0070-climbing-stairs) |
+| [0678-valid-parenthesis-string](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0678-valid-parenthesis-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0143-reorder-list) |
+| [0678-valid-parenthesis-string](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1096-brace-expansion-ii](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1096-brace-expansion-ii) |
@@ -289,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
