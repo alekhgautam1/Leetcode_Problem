@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1480-running-sum-of-1d-array) |
 | [1563-stone-game-v](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1929-concatenation-of-array](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1929-concatenation-of-array) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1563-stone-game-v](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2029-stone-game-ix](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/2029-stone-game-ix) |
 | [3524-find-x-value-of-array-i](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/3524-find-x-value-of-array-i) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0070-climbing-stairs) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0070-climbing-stairs) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Tree
 |  |
 | ------- |
@@ -320,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0111-minimum-depth-of-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -334,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0111-minimum-depth-of-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -345,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0169-majority-element) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -370,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Segment Tree
 |  |
@@ -398,4 +406,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Union-Find
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
