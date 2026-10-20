@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0414-third-maximum-number) |
 | [0500-keyboard-row](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0500-keyboard-row) |
 | [0697-degree-of-an-array](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0697-degree-of-an-array) |
 | [0835-image-overlap](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0835-image-overlap) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0414-third-maximum-number) |
 | [1096-brace-expansion-ii](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1096-brace-expansion-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/2333-minimum-sum-of-squared-difference) |
