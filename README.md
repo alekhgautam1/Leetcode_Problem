@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0075-sort-colors) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0067-add-binary) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0048-rotate-image) |
 | [0835-image-overlap](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0835-image-overlap) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Design
