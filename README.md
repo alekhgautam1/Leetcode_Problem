@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0088-merge-sorted-array) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0070-climbing-stairs) |
 | [0678-valid-parenthesis-string](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0678-valid-parenthesis-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0169-majority-element) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Boyer–Moore Majority Vote Algorithm
