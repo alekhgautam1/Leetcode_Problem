@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0500-keyboard-row) |
 | [0697-degree-of-an-array](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0697-degree-of-an-array) |
 | [0835-image-overlap](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0835-image-overlap) |
+| [0942-di-string-match](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0942-di-string-match) |
 | [1254-number-of-closed-islands](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1254-number-of-closed-islands) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1386-cinema-seat-allocation](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1386-cinema-seat-allocation) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0143-reorder-list) |
 | [0283-move-zeroes](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0349-intersection-of-two-arrays) |
+| [0942-di-string-match](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0942-di-string-match) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Greedy
 |  |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0045-jump-game-ii) |
 | [0678-valid-parenthesis-string](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0942-di-string-match](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0942-di-string-match) |
 | [1386-cinema-seat-allocation](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1386-cinema-seat-allocation) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2029-stone-game-ix](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/2029-stone-game-ix) |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0942-di-string-match](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0942-di-string-match) |
 | [1096-brace-expansion-ii](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
