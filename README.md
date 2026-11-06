@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2747-count-zero-request-servers](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2747-count-zero-request-servers](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/2747-count-zero-request-servers) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0424-longest-repeating-character-replacement) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2747-count-zero-request-servers](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/2747-count-zero-request-servers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1096-brace-expansion-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2747-count-zero-request-servers](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/2747-count-zero-request-servers) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/3886-sum-of-sortable-integers) |
