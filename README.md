@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0835-image-overlap) |
 | [0942-di-string-match](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0942-di-string-match) |
 | [1254-number-of-closed-islands](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1267-count-servers-that-communicate) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1386-cinema-seat-allocation](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1386-cinema-seat-allocation) |
 | [1470-shuffle-the-array](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1470-shuffle-the-array) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0169-majority-element) |
+| [1267-count-servers-that-communicate](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1267-count-servers-that-communicate) |
 | [2029-stone-game-ix](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0111-minimum-depth-of-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
@@ -405,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Divide and Conquer
 |  |
@@ -428,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0048-rotate-image) |
 | [0835-image-overlap](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1267-count-servers-that-communicate) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/3665-twisted-mirror-path-count) |
@@ -479,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
