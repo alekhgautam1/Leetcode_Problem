@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1470-shuffle-the-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0836-rectangle-overlap) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0070-climbing-stairs) |
 | [0678-valid-parenthesis-string](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0678-valid-parenthesis-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -379,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3364-minimum-positive-sum-subarray](https://github.com/alekhgautam1/Leetcode_Problem/tree/master/3364-minimum-positive-sum-subarray) |
